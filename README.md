@@ -28,6 +28,18 @@ Example: `A_000022_1.jpg`, `B_000022_2.mp4`
 7. To **clean the folders**, run `clear.py` from the folder containing the subfolders to clean.
 8. Repeat the process as needed, changing the `ID` value and folder contents.
 
+## 🖼️ Demonstration
+
+### 📁 Placing files into folders  
+![Placing Files](gif1.gif)
+
+### 🏷️ Running main.py  
+![Running main.py](gif2.gif)
+
+### 🧹 Running clear.py  
+![Running clear.py](gif3.gif)
+
+
 ## 🔁 Labeling Rule
 
 The file names follow the structure:
